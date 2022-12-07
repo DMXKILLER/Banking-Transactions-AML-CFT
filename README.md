@@ -13,10 +13,12 @@ This contains datapoints specific to the occurence of a singular transaction. Su
 The World Bank has adopted a cross-border methodology for performing Risk assessments across specific nations where there is adoptation of the FATF regulations/guidelines. In East and Central Africa, the Eastern and Southern Africa Anti-Money Laundering Group (ESAAMLG). The National Risk Assessment reports within the member bodies of ESAAMLG provide the ideal datapoints from the qualitative Risk assessment going back a period of 4 years. The Risk Assessments within the member bodies provide risk classifications on a scale of 0-1 on the basis of given industries/sectors, compliance levels existence of controls and etc.
 
 1. Client Profiling
+
 | Dataset                           | Nr. Classes   | Language | Year | Cite | 
 | --------------------------------- |:-------------:| :-------:|------|------|
 
 1.a) Terror Watchlists 
+
 | Dataset                           | Nr. Classes   | Language | Year | Cite | 
 | --------------------------------- |:-------------:| :-------:|------|------|
 
