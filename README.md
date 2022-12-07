@@ -37,7 +37,7 @@ The World Bank/IMF have provided a cross-border methodology for performing Risk 
 3. National Payment System
 
 | Dataset                           | Nr. Classes   | Language | Size | Year | Cite | 
-| --------------------------------- |:-------------:| :-------:|------|------| Cite | 
+| --------------------------------- |:-------------:| :-------:|------|------|------| 
 | [National Payment System RTGS](datasets/KEPSSRTGS.xlsx)| 2 | English |33.4kb| 2022 | [Central Bank of Kenya](https://www.centralbank.go.ke/national-payments-system/kepss-rtgs/)|
 | [Domestic Foreign Currency](datasets/DFCC.xlsx)| 8 | English |40.1kb| 2022 | [Central Bank of Kenya](https://www.centralbank.go.ke/national-payments-system/automated-clearing-house/dfcc/)|
 | [Diaspora Remittances](datasets/DiasporaRemittances.xlsx)| 6 | English |58.3kb| 2022 | [Central Bank of Kenya](https://www.centralbank.go.ke/diaspora-remittances/)|
