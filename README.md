@@ -2,7 +2,7 @@
 Datasets of Banking Transactions with basis on Anti-Money Laundering an Terrorism Financing
 ============================================
 
-This repository presents a description of the datasets available on banking systems that can be used to classify and identify money laundering and terrorism financing within transactions. The datasets provide a conglomerate of transactionary data (in motion) as well as client profiles (static). In addition to this, it references a specific plug in point for the National Payment Systems of a Central Bank within Eastern Africa.
+This repository presents a description of the datasets available on banking systems that can be used to classify and identify money laundering and terrorism financing within transactions. The datasets provide a conglomerate of transactionary data (in motion) as well as client profiles (static). In addition to this, it references a specific plug in point for the National Payment Systems of a Central Bank within Eastern Africa. If interested in contributing to this repository for terror reports or open investigations within the region region of East and Central Africa, reach me at dnmakiya@fc.ul.pt
 
 
 
@@ -23,6 +23,7 @@ The World Bank/IMF have provided a cross-border methodology for performing Risk 
 
 | Dataset                           | Nr. Classes   | Language | Year | Cite | 
 | --------------------------------- |:-------------:| :-------:|------|------|
+| [Financial Institution in Mexico](jorocha@ucm.es)| 2 | English | 2022 | [Detection of Shell Companies. This dataset is not Publicly available. To access it, a request should be done to the Authors as provided in the link; Jose-de-Jesús Rocha-Salazar](papers/Detection_of_shell_companies_in_financial_institutions_using_dynamic_social_network.pdf)|
 
 1.a) Terror Watchlists 
 
@@ -33,6 +34,8 @@ The World Bank/IMF have provided a cross-border methodology for performing Risk 
 
 | Dataset                           | Nr. Classes   | Language | Year | Cite | 
 | --------------------------------- |:-------------:| :-------:|------|------|
+| [Financial Institution in Mexico](jorocha@ucm.es)| 2 | English | 2022 | [Money Laundering & Terrorism Financing Detection with Neural Networks. This dataset is not Publicly available. To access it, a request should be done to the Authors as provided in the link; Jose-de-Jesús Rocha-Salazar](papers/Money_laundering_and_terrorism_financing_detection_using_neural_networks_abnormality_indicator.pdf|
+| [Synthetic Financial Data](datasets/)| 2 | English | 2016 | [Structural Similarity. This dataset was generated synthetically to prove the methodology proposed in this specific paper. The dataset provides an AccountID, TransactionID, SenderAccountID, ReceiverAccountID, Amount and a TimeStamp only. To access the simulator one can review the work here. papers/A_new_algorithm_for_money_laundering_detection_based_on_structural_similarity___Clustering.pdf|
 
 3. National Payment System
 
