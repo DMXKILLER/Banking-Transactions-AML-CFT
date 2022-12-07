@@ -35,8 +35,8 @@ The World Bank/IMF have provided a cross-border methodology for performing Risk 
 | Dataset                           | Nr. Classes   | Language | Year | Cite | 
 | --------------------------------- |:-------------:| :-------:|------|------|
 | [Financial Institution in Mexico](jorocha@ucm.es)| 2 | English | 2022 | [Money Laundering and Terrorism Financing Detection with Neural Networks. This dataset is not Publicly available. To access it, a request should be done to the Authors as provided in the link; Jose-de-Jesús Rocha-Salazar](papers/Money_laundering_and_terrorism_financing_detection_using_neural_networks_abnormality_indicator.pdf)|
+| [Synthetic Financial Data](jorocha@ucm.es)| 2 | English | 2016 | [Structural Similarity. This dataset was generated synthetically to prove the methodology proposed in this specific paper. The dataset is structured with labels AccountID, TransactionID, SenderAccountID, ReceiverAccountID, Amount and a TimeStamp only. To access the simulator one can review the work here](papers/A_new_algorithm_for_money_laundering_detection_based_on_structural_similarity___Clustering.pdf)|
 
-| [Synthetic Financial Data](datasets/)| 2 | English | 2016 | [Structural Similarity. This dataset was generated synthetically to prove the methodology proposed in this specific paper. The dataset provides an AccountID, TransactionID, SenderAccountID, ReceiverAccountID, Amount and a TimeStamp only. To access the simulator one can review the work here.](papers/A_new_algorithm_for_money_laundering_detection_based_on_structural_similarity___Clustering.pdf)|
 
 
 
