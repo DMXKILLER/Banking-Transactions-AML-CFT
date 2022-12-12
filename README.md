@@ -1,5 +1,5 @@
-# Banking-Transactions-AML-CFT
-Datasets of Banking Transactions with basis on Anti-Money Laundering an Terrorism Financing
+#
+Datasets of Banking Transactions with basis on Anti-Money Laundering and Terrorism Financing
 ============================================
 
 This repository presents a description of the datasets available on banking systems that can be used to classify and identify money laundering and terrorism financing within transactions. The datasets provide a conglomerate of transactionary data (in motion) as well as client profiles (static). In addition to this, it references a specific plug in point for the National Payment Systems of a Central Bank within Eastern Africa. If interested in contributing to this repository for terror reports or open investigations within the region region of East and Central Africa, reach me at dnmakiya@fc.ul.pt
