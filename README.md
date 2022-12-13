@@ -7,11 +7,11 @@ This repository presents a description of the datasets available on banking syst
 
 
 [__Client Profile Data__](#tie)
-This contains datapoints specific to the Know your Customer (KYC) and Customer Due Diligence (CDD) requirements with respect to the Financial Action Task Force (FATF regulations). Such datapoints are include the type of client(individual/natural person), customer segment, Politically exposure, economic activity, Age of client etc.  nature of the client.
+This contains datapoints specific to the Know your Customer (KYC) and Customer Due Diligence (CDD) requirements with respect to the Financial Action Task Force (FATF regulations). Such datapoints include the type of client(individual/natural person), customer segment, Political exposure, economic activity, Age of client etc.  nature of the client.
 
 
 [__Transactionary__](#tie)
-This contains datapoints specific to the occurence of a singular transaction. They are unique at the occurence of each transaction like the currency, income source/purpose of funds, geographical location, intermediary banks etc.
+This contains datapoints specific to the occurence of a singular transaction. They are unique at the occurence of each transaction like the amount, currency, income source/purpose of funds, geographical location, intermediary banks etc.
 
 
 [__National Risk Points__](#tie)
@@ -42,9 +42,11 @@ The World Bank/IMF have provided a cross-border methodology for performing Risk 
 
 3. National Payment System
 
-A payments System is an arrangement that enables payments to be effected between a payer and a beneficiary, or facilitates the circulation of money, and includes any instruments and procedures that relate to the system. According to the Bank of International Settlements (BIS), a payment system “consists of a set of instruments, banking procedures and, typically, interbank funds transfer systems that ensure the circulation of money.” They are a major channel by which shocks can be transmitted across domestic and international financial systems and markets. Therefore, National Payments System are the conduits through which buyers and sellers of financial products and services make transactions and are an important component of a country’s financial system. In Kenya participants comprise of the Central Bank of Kenya, the Government, Commercial Banks, Financial Institutions and Payment System Providers. The Kenya Electronic Payment and Settlement System (KEPSS) is classified as a Systemically Important Payment Systems (SIPS) due to the value of transactions it processes and its impact in the economy. The system was implemented on July 29, 2005 and is wholly owned and managed by the Central Bank of Kenya (CBK).
+A Payments System is an arrangement that enables payments to be effected between a payer and a beneficiary, or facilitates the circulation of money, and includes any instruments and procedures that relate to the system. According to the Bank of International Settlements (BIS), a payment system “consists of a set of instruments, banking procedures and, typically, interbank funds transfer systems that ensure the circulation of money.” They are a major channel by which shocks can be transmitted across domestic and international financial systems and markets. Therefore, National Payments System are the conduits through which buyers and sellers of financial products and services make transactions and are an important component of a country’s financial system. In Kenya participants comprise of the Central Bank of Kenya, the Government, Commercial Banks, Financial Institutions and Payment System Providers. The Kenya Electronic Payment and Settlement System (KEPSS) is classified as a Systemically Important Payment Systems (SIPS) due to the value of transactions it processes and its impact in the economy. The system was implemented on July 29, 2005 and is wholly owned and managed by the Central Bank of Kenya (CBK).
 
-The need to enhance efficiency in payment systems within the East African Community (EAC) and Common Market for East and South Africa (COMESA) regions – and therefore promote regional trade and economic integration – resulted in the development of two regional payment systems. The East African Payment System (EAPS) and the Regional Payment and Settlement System (REPSS) objectives are to facilitate cross border payment and settlement within the EAC and COMESA regions, respectively. Both are integrated in KEPSS.
+The need to enhance efficiency in payment systems within the East African Community (EAC) and Common Market for East and South Africa (COMESA) regions – and therefore promote regional trade and economic integration – resulted in the development of two regional payment systems. The East African Payment System (EAPS) and the Regional Payment and Settlement System (REPSS) objectives are to facilitate cross border payment and settlement within the EAC and COMESA regions, respectively. Both are integrated in KEPSS. 
+
+The Payment systems within these region generate the datasets provided below. They can be used to build National/Regional Risk profiles by Volumes of transactions, geographical frequency weights as well as distribution clusters for currency weightings.
 
 
 | Dataset                           | Nr. Classes   | Language | Size | Year | Cite | 
@@ -54,3 +56,4 @@ The need to enhance efficiency in payment systems within the East African Commun
 | [Diaspora Remittances](datasets/DiasporaRemittances.xlsx)| 6 | English |58.3kb| 2022 | [Central Bank of Kenya](https://www.centralbank.go.ke/diaspora-remittances/)|
 | [Card Payments](datasets/CardPayments.zip)| 3 | English |19.1kb| 2022 | [Central Bank of Kenya](https://www.centralbank.go.ke/national-payments-system/payment-cards)|
 | [Mobile Payments](datasets/MobilePayments.xlsx)| 6 | English |37.2kb| 2022 | [Central Bank of Kenya](https://www.centralbank.go.ke/national-payments-system/mobile-payments/)|
+| [Jurisdictions Under Increased Monitoring] (https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-march-2022.html| 6 | English |--| 2022 | [FATF, 2022](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-march-2022.html#zimbabwe)|
