@@ -32,17 +32,18 @@ The World Bank/IMF have provided a cross-border methodology for performing Risk 
 
 2. Transactional
 
-| Dataset                           | Description   | Language | Year | Citation - Use Cases | 
-| --------------------------------- |:-------------:| :-------:|------|------|
+| Dataset                           | Description   | Language | Size | Year | Citation - Use Cases | Availability | 
+| --------------------------------- |:-------------:| :-------:|------|------|------|------| 
+| [Bank Transactions](datasets/bank_transactions.xlsx)| This is a 8 column .xlsx providing transactional data of a random clients over the period of June 2017 to March 2019.| English |6.45MB| 2020 | [The original purpose behind this dataset was to detect fraud transactions and money laundering. ](https://www.kaggle.com/datasets/apoorvwatsky/bank-transaction-data)| Public Access |
+| [PKDD'99 Discovery Challenge - Dataset](datasets/Czech_FI_financial_db_Teradata.zip)| The dataset conists of 8 tsv files by listing containing the accounts, clients, disposition, loans, credit card info., demographics, permanent order and demographics. The transactions are based on a real life Finanical Institution in The Czech Republic from 1993 to 1998 however, they were lagged by 20 years to mirror the period of 2003 to 2018. It covers the  | English |6.45MB| 2020 | [The original purpose behind this dataset was a discovery challenge posed by a bank to improve the delivery of services to its client. This data was prepared by Petr Berka and Marta Sochorova.](https://sorry.vse.cz/~berka/challenge/pkdd1999/berka.htm)| Public Access |
 | [Financial Institution in Mexico](jorocha@ucm.es)| 2 | English | 2022 | [Money Laundering and Terrorism Financing Detection with Neural Networks. This dataset is not Publicly available. To access it, a request should be done to the Authors as provided in the link; Jose-de-Jesús Rocha-Salazar](papers/Money_laundering_and_terrorism_financing_detection_using_neural_networks_abnormality_indicator.pdf)|
 | [Synthetic Financial Data](jorocha@ucm.es)| 2 | English | 2016 | [Structural Similarity. This dataset was generated synthetically to prove the methodology proposed in this specific paper. The dataset is structured with labels AccountID, TransactionID, SenderAccountID, ReceiverAccountID, Amount and a TimeStamp only. To access the simulator one can review the work here](papers/A_new_algorithm_for_money_laundering_detection_based_on_structural_similarity___Clustering.pdf)|
 
-https://www.kaggle.com/apoorvwatsky/bank-transaction-data - Excel Upload
-https://sorry.vse.cz/~berka/challenge/pkdd1999/berka.htm - Petr Bekr
+
 https://www.occrp.org/en/azerbaijanilaundromat/raw-data/ - AZERBAIJANI LAUNDROMAT · THE RAW DATA  
 
 
-3. National Payment System
+3. National Payments System
 
 A Payments System is an arrangement that enables payments to be effected between a payer and a beneficiary, or facilitates the circulation of money, and includes any instruments and procedures that relate to the system. According to the Bank of International Settlements (BIS), a payment system “consists of a set of instruments, banking procedures and, typically, interbank funds transfer systems that ensure the circulation of money.” They are a major channel by which shocks can be transmitted across domestic and international financial systems and markets. Therefore, National Payments System are the conduits through which buyers and sellers of financial products and services make transactions and are an important component of a country’s financial system. In Kenya participants comprise of the Central Bank of Kenya, the Government, Commercial Banks, Financial Institutions and Payment System Providers. The Kenya Electronic Payment and Settlement System (KEPSS) is classified as a Systemically Important Payment Systems (SIPS) due to the value of transactions it processes and its impact in the economy. The system was implemented on July 29, 2005 and is wholly owned and managed by the Central Bank of Kenya (CBK).
 
