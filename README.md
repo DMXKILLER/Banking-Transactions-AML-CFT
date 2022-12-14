@@ -21,23 +21,25 @@ The World Bank/IMF have provided a cross-border methodology for performing Risk 
 
 1. Client Profiling
 
-| Dataset                           | Nr. Classes   | Language | Year | Cite | 
+| Dataset                           | Description   | Language | Year | Citation - Use Cases | 
 | --------------------------------- |:-------------:| :-------:|------|------|
 | [Financial Institution in Mexico](jorocha@ucm.es)| 2 | English | 2022 | [Detection of Shell Companies. This dataset is not Publicly available. To access it, a request should be done to the Authors as provided in the link; Jose-de-Jesús Rocha-Salazar](papers/Detection_of_shell_companies_in_financial_institutions_using_dynamic_social_network.pdf)|
 
 1.a) Terror Watchlists 
 
-| Dataset                           | Nr. Classes   | Language | Year | Cite | 
+| Dataset                           | Nr. Classes   | Language | Year | Citation - Use Cases | 
 | --------------------------------- |:-------------:| :-------:|------|------|
 
 2. Transactional
 
-| Dataset                           | Nr. Classes   | Language | Year | Cite | 
+| Dataset                           | Nr. Classes   | Language | Year | Citation - Use Cases | 
 | --------------------------------- |:-------------:| :-------:|------|------|
 | [Financial Institution in Mexico](jorocha@ucm.es)| 2 | English | 2022 | [Money Laundering and Terrorism Financing Detection with Neural Networks. This dataset is not Publicly available. To access it, a request should be done to the Authors as provided in the link; Jose-de-Jesús Rocha-Salazar](papers/Money_laundering_and_terrorism_financing_detection_using_neural_networks_abnormality_indicator.pdf)|
 | [Synthetic Financial Data](jorocha@ucm.es)| 2 | English | 2016 | [Structural Similarity. This dataset was generated synthetically to prove the methodology proposed in this specific paper. The dataset is structured with labels AccountID, TransactionID, SenderAccountID, ReceiverAccountID, Amount and a TimeStamp only. To access the simulator one can review the work here](papers/A_new_algorithm_for_money_laundering_detection_based_on_structural_similarity___Clustering.pdf)|
 
-
+https://www.kaggle.com/apoorvwatsky/bank-transaction-data - Excel Upload
+https://sorry.vse.cz/~berka/challenge/pkdd1999/berka.htm - Petr Bekr
+https://www.occrp.org/en/azerbaijanilaundromat/raw-data/ - AZERBAIJANI LAUNDROMAT · THE RAW DATA  
 
 
 3. National Payment System
@@ -49,11 +51,11 @@ The need to enhance efficiency in payment systems within the East African Commun
 The Payment systems within these region generate the datasets provided below. They can be used to build National/Regional Risk profiles by Volumes of transactions, geographical frequency weights as well as distribution clusters for currency weightings.
 
 
-| Dataset                           | Nr. Classes   | Language | Size | Year | Cite | 
+| Dataset                           | Description   | Language | Size | Year | Cite | 
 | --------------------------------- |:-------------:| :-------:|------|------|------| 
 | [National Payment System RTGS](datasets/KEPSSRTGS.xlsx)| 2 | English |33.4kb| 2022 | [Central Bank of Kenya](https://www.centralbank.go.ke/national-payments-system/kepss-rtgs/)|
 | [Domestic Foreign Currency](datasets/DFCC.xlsx)| 8 | English |40.1kb| 2022 | [Central Bank of Kenya](https://www.centralbank.go.ke/national-payments-system/automated-clearing-house/dfcc/)|
 | [Diaspora Remittances](datasets/DiasporaRemittances.xlsx)| 6 | English |58.3kb| 2022 | [Central Bank of Kenya](https://www.centralbank.go.ke/diaspora-remittances/)|
 | [Card Payments](datasets/CardPayments.zip)| 3 | English |19.1kb| 2022 | [Central Bank of Kenya](https://www.centralbank.go.ke/national-payments-system/payment-cards)|
 | [Mobile Payments](datasets/MobilePayments.xlsx)| 6 | English |37.2kb| 2022 | [Central Bank of Kenya](https://www.centralbank.go.ke/national-payments-system/mobile-payments/)|
-| [Jurisdictions Under Increased Monitoring](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-march-2022.html#zimbabwe)| 6 | English |--| 2022 | [FATF, 2022](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-march-2022.html#zimbabwe)|
+| [Jurisdictions Under Increased Monitoring - "Grey list"](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-march-2022.html#zimbabwe)| 6 | English |--| 2022 | [FATF, 2022](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-march-2022.html#zimbabwe)|
