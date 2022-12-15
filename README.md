@@ -7,7 +7,7 @@ This repository presents a description of the datasets available on banking syst
 
 
 [__Client Profile Data__](#tie)
-This contains datapoints specific to the Know your Customer (KYC) and Customer Due Diligence (CDD) requirements with respect to the Financial Action Task Force (FATF regulations). Such datapoints include the type of client(individual/natural person), customer segment, Political exposure, economic activity, Age of client etc.  nature of the client.
+This contains datapoints specific to the Know your Customer (KYC) and Customer Due Diligence (CDD) requirements with respect to the Financial Action Task Force (FATF regulations). Such datapoints include the type of client(individual/natural person), customer segment, Political exposure, economic activity, nature of the client Age of client etc.
 
 
 [__Transactionary__](#tie)
@@ -15,7 +15,7 @@ This contains datapoints specific to the occurence of a singular transaction. Th
 
 
 [__National Risk Points__](#tie)
-The World Bank/IMF have provided a cross-border methodology for performing Risk assessments across specific nations where there is adoptation of the FATF regulations/guidelines. In East and Central Africa, The Eastern and Southern Africa Anti-Money Laundering Group (ESAAMLG) operates as a key information exchange hub within the region. The National Risk Assessment reports within the member bodies of ESAAMLG provide the ideal datapoints from the qualitative Risk assessment going back a period of 4 years. The Risk Assessments within the member bodies provide risk classifications on a scale of 0-1 on the basis of given industries/sectors, compliance levels existence of controls and etc.
+The World Bank/IMF have provided a cross-border methodology for performing Risk assessments across specific nations where there is adoptation of the [__FATF regulations/guidelines__](#tie). In East and Central Africa, The Eastern and Southern Africa Anti-Money Laundering Group (ESAAMLG) operates as a key information exchange hub within the region. The National Risk Assessment reports within the member bodies of ESAAMLG provide the ideal datapoints from the qualitative Risk assessment going back a period of 4 years. The Risk Assessments within the member bodies provide risk classifications on a scale of 0-1 on the basis of given industries/sectors, compliance levels existence of controls and etc.
 
 <br><br>
 
