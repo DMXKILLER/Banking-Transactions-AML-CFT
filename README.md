@@ -15,7 +15,7 @@ This contains datapoints specific to the occurence of a singular transaction. Th
 
 
 [__National Risk Points__](#tie)
-The World Bank/IMF have provided a cross-border methodology for performing Risk assessments across specific nations where there is adoptation of the [__FATF regulations/guidelines__](#tie). In East and Central Africa, The Eastern and Southern Africa Anti-Money Laundering Group (ESAAMLG) operates as a key information exchange hub within the region. The National Risk Assessment reports within the member bodies of ESAAMLG provide the ideal datapoints from the qualitative Risk assessment going back a period of 4 years. The Risk Assessments within the member bodies provide risk classifications on a scale of 0-1 on the basis of given industries/sectors, compliance levels existence of controls and etc.
+The World Bank/IMF have provided a cross-border methodology for performing Risk assessments across specific nations where there is adoptation of the [__FATF regulations/guidelines__](papers/Risk_Assessment_IMF.pdfisk_Assessment_IMF.pdf). In East and Central Africa, The Eastern and Southern Africa Anti-Money Laundering Group (ESAAMLG) operates as a key information exchange hub within the region. The National Risk Assessment reports within the member bodies of ESAAMLG provide the ideal datapoints from the qualitative Risk assessment going back a period of 4 years. The [__Risk Assessments__](papers/Kenya_NRA_Report_Public_Version_Final_For_Publication_January_2022.pdf)  within the member bodies provide risk classifications on a scale of 0-1 on the basis of given industries/sectors, compliance levels existence of controls and etc.
 
 <br><br>
 
